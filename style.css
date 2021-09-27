@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&family=Ubuntu:wght@300&display=swap');
+
+body {
+    background-image: url('https://images.hdqwalls.com/download/desert-sun-day-5k-minimalism-1a-2160x3840.jpg');
+    background-size: cover;
+    position: bottom;
+    background-repeat: no-repeat;
+    margin-top: 10%;
+    margin-left: center;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.contain {
+  background: floralwhite;
+  height: 3520px;
+  width: 760px;
+  color: #1c1c1c;
+  margin: 45px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px #0e1d2f;
+  padding: 50px;
+}
+
+.icon {
+  border-radius: 460px;
+  max-height: 170px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
+}
+
+#botao-dark {
+  height: 85px;
+  display: flex;
+  align-self: flex-end;
+  margin-left: 93%;
+  margin-top: -5%;
+  margin-bottom: 0px;
+}
+.perfil {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 36px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 28px;
+  flex-direction: column;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 15px;
+}
+#projetotitle {
+  margin-top: 90px;
+  margin-bottom: -20px;
+  font-weight: 700px;
+  
+}
+
+p {
+  font-size: 35px;
+  margin-left: 0px;
+  margin-top: 50px;
+  margin-bottom: 5px;
+  padding: 0px;
+  text-decoration: none;
+  list-style: none;
+  list-style-type: none;
+  line-height: 90px;
+  justify-content: space-around;
+}
+
+.codepen {
+  display: flex;
+  justify-content: space-between;
+}
+#projetotitle {
+  font-size: 40px;
+  margin-left: -40px;
+}
+
+#github {
+  width: 50px;
+  margin-left: 98%;
+  margin-top: 65px;
+  
+}
+
+#amino {
+  width: 50px;
+  margin-left: 91%;
+  margin-top: -60px;
+  margin-bottom: 18px;
+
+}
+
+.dark {
+  background-image: url('https://images.hdqwalls.com/download/at-pyramid-sight-5d-2160x3840.jpg')
+  
+}
+
+.dark .contain {
+
+ background-color: floralwhite;
+
+}
